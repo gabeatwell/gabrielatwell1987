@@ -29,4 +29,4 @@ Please contact me if you need a frontend dev!
 - <a href="https://www.reddit.com/user/gatwell702">Reddit</a>
 - <a href="https://x.com/GabeAtwell">X/Twitter</a>
 
-<a href="https://gabrielatwell.com">gabrielatwell.com</a>
+<a href="https://atwell.dev">atwell.dev</a>
